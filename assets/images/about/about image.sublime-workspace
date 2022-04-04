@@ -1,0 +1,390 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mt",
+				"mt-12"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"bak",
+				"background-position"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"shad",
+				"text-shadow"
+			],
+			[
+				"wor",
+				"word-spacing"
+			],
+			[
+				"font-",
+				"font-stretch"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"gr",
+				"grid-template-columns"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"mod",
+				"modal-container"
+			],
+			[
+				"po",
+				"pointer-events"
+			],
+			[
+				"gri",
+				"grid-row"
+			],
+			[
+				"darkg",
+				"darkgrey"
+			],
+			[
+				"decor",
+				"box-decoration-break"
+			],
+			[
+				"grid-",
+				"grid-auto-columns"
+			],
+			[
+				"grid-t",
+				"grid-template-columns"
+			],
+			[
+				"grid",
+				"grid-template-columns"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"t",
+				"sticky"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"style",
+				"border-style"
+			],
+			[
+				"n",
+				"unset"
+			],
+			[
+				"bl",
+				"darkblue"
+			],
+			[
+				"clor",
+				"color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"bordd",
+				"border-radius"
+			],
+			[
+				"lightg",
+				"lightgrey"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"id",
+				"id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/saylo/Desktop/Website Template/play-tailwind-main/index.html",
+		"/C/Users/saylo/Documents/GitHub/SayNelloOutdoors.com/about.html",
+		"/C/Users/saylo/Desktop/Website 3/teamcode.html",
+		"/C/Users/saylo/Desktop/Website 3/assets/css/animate.css",
+		"/C/Users/saylo/Desktop/Website 3/assets/css/tailwind.css",
+		"/C/Users/saylo/Desktop/Website 3/index.html",
+		"/C/Users/saylo/Documents/GitHub/SayNelloOutdoors/SayNello_Outdoors.css",
+		"/C/Users/saylo/Desktop/SayNello_Outdoors.css",
+		"/C/Users/saylo/Desktop/Website Template/play-tailwind-main/assets/css/animate.css",
+		"/C/Users/saylo/Desktop/Website 2/Website 2.css",
+		"/C/Users/saylo/Desktop/Website 2/New folder/assets/css/tailwind.css",
+		"/C/Users/saylo/Desktop/Website 2/New folder/index.html",
+		"/C/Users/saylo/Desktop/Website Template/play-tailwind-main/src/tailwind.css",
+		"/C/Users/saylo/Desktop/Website 2/Copy.html",
+		"/C/Users/saylo/Desktop/Website 2/Website 2.html",
+		"/C/Users/saylo/Documents/GitHub/SayNelloOutdoors/Form.js",
+		"/C/Users/saylo/Desktop/.github/SayNelloOutdoors/SayNello_Outdoors.css",
+		"/C/Users/saylo/Desktop/Website Files/SayNello_Outdoors.css",
+		"/C/Users/saylo/Desktop/New folder (5)/SayNello_Outdoors.css",
+		"/C/Users/saylo/Documents/GitHub/SayNelloOutdoors/SayNello Outdoors.js",
+		"/C/Users/saylo/Desktop/New folder (5)/ContactUs.css",
+		"/C/Users/saylo/Desktop/New folder (5)/ContactUs.html",
+		"/C/Users/saylo/Desktop/New folder (5)/learnmore.css",
+		"/C/Users/saylo/Desktop/New folder (5)/LearnMore.html",
+		"/C/Users/saylo/Desktop/New folder (5)/index.html",
+		"/C/Users/saylo/Documents/GitHub/SayNelloOutdoors.com/SayNello_Outdoors.css",
+		"/C/Users/saylo/Desktop/New folder (5)/weeding.css",
+		"/C/Users/saylo/Desktop/New folder (5)/weeding.html"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "about image.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
