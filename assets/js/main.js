@@ -3,7 +3,7 @@
 
   // ======= Sticky
   window.onscroll = function () {
-    const ud_header = document.querySelector(".ud-header");
+    const ud_header = document.querySelector(".ud-heder");
     const sticky = ud_header.offsetTop;
     const logo = document.querySelector(".header-logo");
 
@@ -18,17 +18,6 @@
       logo.src = "assets/images/logo/logo.svg";
     } else {
       logo.src = "assets/images/logo/logo-white.svg";
-    }
-
-    // show or hide the back-top-top button
-    const backToTop = document.querySelector(".back-to-top");
-    if (
-      document.body.scrollTop > 50 ||
-      document.documentElement.scrollTop > 50
-    ) {
-      backToTop.style.display = "flex";
-    } else {
-      backToTop.style.display = "none";
     }
   };
 
